@@ -1,0 +1,6 @@
+interface:
+  display_name: "Evidence-Bound Execution"
+  short_description: "Lock evidence and acceptance conditions before delivery"
+  default_prompt: "Use $evidence-bound-execution to lock the required evidence, map it into the output, and block unsupported completion claims."
+policy:
+  allow_implicit_invocation: true
