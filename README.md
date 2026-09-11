@@ -2,6 +2,8 @@
 
 Keep AI agents accountable to actual requirements. A Codex and Claude Code skill for mapping corrections to deliverables and checking evidence before claiming completion.
 
+[View on skills.sh](https://skills.sh/ShiYuPro/evidence-bound-execution/evidence-bound-execution)
+
 ## Install
 
 With [Skills CLI](https://skills.sh/docs) (Node.js and npm required):
