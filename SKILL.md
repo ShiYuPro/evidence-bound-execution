@@ -1,6 +1,6 @@
 ---
 name: evidence-bound-execution
-description: Use when creating or revising an artifact, product, or implementation that must carry prior diagnosis, user corrections, named examples, research, benchmarks, or non-negotiable acceptance conditions into the actual output, especially after a rejected iteration. Converts judgment into observable execution constraints and blocks unsupported outcome claims. Skip simple factual answers and purely mechanical edits with no qualitative or evidence constraint.
+description: Carry explicit references, prior corrections, or evidence-based acceptance conditions into a deliverable, especially when a previous version failed them.
 ---
 
 # Evidence-Bound Execution
